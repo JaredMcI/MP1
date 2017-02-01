@@ -1,0 +1,20 @@
+    1  cd documents
+    2  cd JaredMathProg
+    3  cd MathProg
+    4  cd JaredMP1
+    5  cd JaredMP1.ipynb 
+    6  git init
+    7  git add.
+    8  mk dir "jared.txt"
+    9  mkdir "JaredMP1.txt"
+   10  git add .
+   11  git status
+   12  git log 
+   13  git commit -m "Added a python file to test and initialise repository"
+   14  git log
+   15  git remote add origin https://github.com/JaredMcI/mp1.git
+   16  git push -u origin master
+   17  git push -u origin master
+   18  git status
+   19  history
+   20  history > mp1_hist
